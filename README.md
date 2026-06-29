@@ -3,6 +3,8 @@
 
 ### Utkarsh Singh
 
+https://portfolio.utkarshsingh72007.workers.dev/?v=2
+
 AI researcher. Developer. Second-year undergrad who somehow got a paper into **ICML 2026**.
 
 I work on the kind of problems that look solved until you actually need them to work —
